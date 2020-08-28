@@ -1,0 +1,369 @@
+
+ *, h1, h2 {
+     padding: 0;
+     margin:0;
+}
+
+html {
+    font-size: 16px;
+}
+
+.search {
+    position: absolute;
+    margin-left:90px; 
+}
+.btn {
+    text-transform: none;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+nav ul a:hover {
+    background-color: rgba(0, 0, 0, 0) ;
+    border-top: 4px solid  rgb(10, 191, 83);
+}
+
+.hide-on-med-and-down img {
+    width: 14px;
+    max-height: 12px;
+   
+}
+
+.navbar-fixed li {
+    font-weight: 300;
+}
+
+.nav-wrapper img {
+    height: 30px;
+    vertical-align: middle;
+}
+
+.no-shadow {
+    box-shadow: none;
+}
+
+nav ul li a{
+    color: black;
+}
+
+.navbar-fixed ul {
+    padding-left: 120px;
+}
+
+.landing-banner {
+    padding-bottom: 50px;
+}
+
+.landing-banner img {
+    width:100%;
+    height: auto;
+    padding-top:20px; 
+}
+
+.landing-banner h2 {
+    font-weight: 600;
+    font-size: 4rem;
+    padding-top: 130px;
+    line-height: 75px;
+}
+
+.landing-banner p {
+    padding: 30px 0px 30px 0px;
+    font-size: 1.2rem;
+    font-weight: 300;
+    width: 90%;   
+}
+
+.benefits {
+    height: fit-content;
+    padding-top: 80px;
+}
+
+.benefits img {
+    width: 37px;
+    height: auto;
+}
+
+.benefits p {
+    width: 350px;
+    text-align: center;
+    line-height: 25px;
+    font-weight: 300;
+    font-size: 1.2rem;
+    padding-bottom: 35px;
+}
+
+.benefits h4 {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.benefits a {
+   color: rgb(10, 191, 83);
+   font-weight: 400;
+}
+
+.pay-chnls {
+    margin-bottom: 100px;
+ }
+.pay-chnls a {
+    color: rgb(10, 191, 83);
+    font-weight: 400;
+ }
+
+ .pay-media {
+     padding-bottom: 30px ;
+ }
+
+ .transactions a {
+    color: rgb(10, 191, 83);
+    font-weight: 400;
+ }
+
+ .hvr-btm:hover {
+    border-bottom: 1px solid  rgb(10, 191, 83);
+    /* padding-bottom: 10px; */
+    transition: ease .05s;
+}
+
+ .benefits a, .pay-chnls a, .transactions a {
+    padding-bottom: 20px;
+} 
+
+.box {
+    height:96px;
+    width: 100%;
+    margin-top:96px;
+}
+
+.pay-chnls h2 {
+    width: 50%;
+    margin: auto;
+    font-size: 3rem;
+    font-weight: 500;
+    padding-bottom: 40px;
+}
+
+.pay-chnls h4 {
+    font-size: 1.4rem;
+    font-weight: 500;    
+}
+
+.main-par {
+    width: 50%;
+    margin: auto;
+    font-size: 1.3rem;
+    font-weight:300;
+    padding-bottom: 40px;
+    line-height: 35px;
+}
+
+.pay-chnls img {
+    width:100%;
+    height: auto;
+}
+
+.left-align {
+      text-align: left;
+}
+
+.left-link {
+    float:left;
+}
+
+
+.pay-chnls a {
+
+    padding-top: 15px;
+}
+
+.pay-media {
+    padding-top: 90px;
+}
+
+.transactions {
+    background-color: rgb(5, 17, 47);
+    color: white;
+    padding-bottom: 100px;
+}
+
+.transactions img {
+    width: 23px;
+    height: auto;  
+}
+
+.trans-text {
+    padding-top: 100px;
+}
+
+
+.transactions h3 {
+    font-size: 3rem;
+    padding-top: 150px;
+    width:60%;
+    font-weight: 600;
+    line-height: 60px;
+}
+
+
+.transactions h4 {
+    font-size: 1.3rem;  
+}
+
+.transactions p {
+    width:80%;
+    font-weight: 200;
+    line-height: 30px;
+    font-size: 1.2rem;
+}
+
+.icons {
+    padding-top: 40px;
+}
+
+.icons p {
+    font-weight: 200;
+    font-size: .9rem;
+    width: 100%;
+    padding-bottom: 40px;
+}
+
+.journey {
+    padding: 80px 0px 80px 0px;
+}
+
+.journey a {
+    background-color:  rgb(5, 17, 47);
+}
+
+.journey a:hover {
+    background-color:  rgb(5, 17, 47);
+}
+
+.journey h3 {
+    font-size: 1.9rem;
+    font-weight: 600; 
+}
+
+.page-footer {
+    background-color: rgb(5, 17, 47);
+    padding: 75px 0px 20px 0px;
+}
+
+.page-footer a:hover {
+    border-bottom: 1px solid white;  
+}
+
+.page-footer li {
+    font-weight: 200;
+    padding:6px 0 6px 0;
+}
+
+.li-header {
+    font-size: 3rem;
+}
+
+.head {
+    font-weight: 600;
+}
+
+.submit {
+    position: absolute;
+    right: 10px;
+}
+
+input:focus {
+    border-bottom: 2px solid rgb(10, 191, 83) !important;
+  }
+
+.social-icons {
+    display: flex;
+}
+
+.social-icons li {
+    margin: 20px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    border: solid 1px  rgb(58, 71, 95);
+    border-radius: 4px;
+    width: 45px;
+    color: rgb(167, 175, 188);
+    text-align: center;
+}
+
+.social-icons li:hover {
+    color: white;
+    transition: ease;
+    border: .5px solid white;
+}
+
+.line {
+    width: 100%;
+    border-top: .5px solid rgb(58, 71, 95);
+    margin-top: 40px;
+}
+
+.end-tags h6 {
+    font-size: .8rem;
+    font-weight: 200;
+    display:inline-block;
+    padding-right:5px;
+}
+
+.desclaimer {
+    font-size: .8rem;
+    font-weight: 200;
+    line-height: 20px;
+    color:  rgb(167, 175, 188);
+}
+
+.desclaimer span {
+    color:  rgb(10, 191, 83)
+}
+
+.arrow {
+    border: solid  rgb(10, 191, 83);
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
+
+  
+
+  @media screen and (max-width: 1495px) {
+    .benefits p {
+      width:fit-content
+    }
+  }
+
+
+  @media screen and (max-width: 994px) {
+    .landing-banner h2 {
+        text-align: center;
+    }
+    .landing-banner p {
+        text-align: center;
+    }
+    .landing-banner a {
+        font-size: x-large;
+        margin-left: 250px;
+    }
+  }
+  
+  @media screen and (max-width: 988px) {
+      .icons > div {
+        text-align: center;
+    }
+  }
+
+  @media screen and (max-width: 1620px) {
+      .right-nav {
+          display: none;
+        }
+}
