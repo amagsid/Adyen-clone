@@ -367,3 +367,106 @@ input:focus {
           display: none;
         }
 }
+
+/*This media query rule is specefically to make the website responsive on mobile
+and especially optimized for iPhone X */
+@media screen and (max-width: 375px) {
+    body {
+        width: 375px;
+        height: auto;
+    }
+    
+    .landing-banner h2 {
+        padding-top: 20px;
+        line-height: 60px;
+    }
+    
+    .benefits {
+        padding-top: 15px;
+    }
+
+    .landing-banner p {
+        font-size: 1rem;
+        width:100%;
+        padding-bottom: 15px;
+    }
+    
+    .landing-banner{
+        padding-bottom: 0px;
+    }
+
+    .landing-banner iframe {
+        width: 370px;
+        height: auto;
+    }
+
+    .start-btn {
+     position: absolute;
+     right: 40px;
+     margin-bottom: 30px;
+     width: 300px;
+     margin: auto
+    }
+    
+    .logos-mobile {
+    min-width: 100%;
+    padding-top: 30px;
+    }
+    
+    .hvr-btm {
+    margin-bottom: 0px;
+    margin-top: 10px;
+
+    }
+    
+    .benefits p {
+    padding-bottom: 0px;
+
+    }
+    
+    .benefits h4 {
+    margin-top: 0px;
+    }
+    
+    .benefits img {
+    padding-top: 35px;
+    padding-bottom: 0px;
+    }
+    
+    .main-par {
+    width: 100%;
+    font-size: 1.5rem;
+    padding-bottom: 10px;
+    }
+    
+    .white {
+    margin-top: 10px;
+    }
+    
+    .pay-chnls h2 {
+    width: 100%;
+    font-size:2rem;
+
+    }
+    
+    .pay-chnls {
+    margin-bottom: 0px;
+    }
+    
+    .transactions h3 {
+   padding-top: 0px;
+   text-align: center;
+   width: 100%;
+   }
+   
+   .transactions p {
+    padding-top: 0px;
+    text-align: center;
+    width: 100%;
+    }
+    
+    .pay-media {
+     padding-top: 40px;
+ }
+
+}
