@@ -10,7 +10,7 @@ html {
 
 .search {
     position: absolute;
-    margin-left:90px; 
+    margin-left:3.5em; 
 }
 .btn {
     text-transform: none;
@@ -20,6 +20,11 @@ html {
     font-weight: 600;
 }
 
+
+nav ul a{
+    background-color: rgba(0, 0, 0, 0) ;
+    border-top: 4px solid transparent;
+}
 nav ul a:hover {
     background-color: rgba(0, 0, 0, 0) ;
     border-top: 4px solid  rgb(10, 191, 83);
@@ -147,14 +152,14 @@ nav ul li a{
 }
 
 .pay-chnls h4 {
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     font-weight: 500;    
 }
 
 .main-par {
     width: 50%;
     margin: auto;
-    font-size: 1.3rem;
+    font-size: 1.25rem;
     font-weight:300;
     padding-bottom: 40px;
     line-height: 35px;
@@ -209,7 +214,7 @@ nav ul li a{
 
 
 .transactions h4 {
-    font-size: 1.3rem;  
+    font-size: 1.25rem;  
 }
 
 .transactions p {
@@ -225,7 +230,7 @@ nav ul li a{
 
 .icons p {
     font-weight: 200;
-    font-size: .9rem;
+    font-size: 1rem;
     width: 100%;
     padding-bottom: 40px;
 }
@@ -243,7 +248,7 @@ nav ul li a{
 }
 
 .journey h3 {
-    font-size: 1.9rem;
+    font-size: 2rem;
     font-weight: 600; 
 }
 
@@ -305,14 +310,14 @@ input:focus {
 }
 
 .end-tags h6 {
-    font-size: .8rem;
+    font-size: .750rem;
     font-weight: 200;
     display:inline-block;
     padding-right:5px;
 }
 
 .desclaimer {
-    font-size: .8rem;
+    font-size: .750rem;
     font-weight: 200;
     line-height: 20px;
     color:  rgb(167, 175, 188);
