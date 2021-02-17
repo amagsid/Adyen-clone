@@ -11,5 +11,5 @@
   
    <img align="right" alt="GIF" src="https://github.com/amagsid/Adyen.com-clone/blob/master/readme-assets/sales%20channels.gif" width="400" height="280" />
    <img align="center" alt="GIF" src="https://github.com/amagsid/Adyen.com-clone/blob/master/readme-assets/landing%20banner.gif" width="400" height="260" />
-     <img alt="GIF" src="https://github.com/amagsid/Adyen.com-clone/blob/master/readme-assets/animation.gif" width="1000" height="600" />
+     <img alt="GIF" src="https://github.com/amagsid/Adyen.com-clone/blob/master/readme-assets/animation.gif" width="1200" height="600" />
 
