@@ -1,6 +1,6 @@
 # Adyen clone
 
- <img alt="GIF" src="https://github.com/amagsid/Adyen.com-clone/blob/master/readme-assets/Tour.gif" width="950" height="500" />
+ <img alt="GIF" src="https://github.com/amagsid/Adyen.com-clone/blob/master/readme-assets/Tour.gif" width="950" height="530" />
 
  ### 💡 About the Project:
  My goal for this project was to create an accurate mockup of the Adyen clone.
@@ -12,7 +12,7 @@
 
    <img align="right" alt="GIF" src="https://github.com/amagsid/Adyen.com-clone/blob/master/readme-assets/sales%20channels.gif" width="480" height="310" />
    <img align="left" alt="GIF" src="https://github.com/amagsid/Adyen.com-clone/blob/master/readme-assets/landing%20banner.gif" width="480" height="310" />
-   **I took this chance to practice and develop my bootstrap skills, which I solely used to get this project done**
-**The end goal turned out to be a replica of the Original website**
-     <img alt="GIF" src="https://github.com/amagsid/Adyen.com-clone/blob/master/readme-assets/animation.gif" width="1200" height="600" />
-
+   ### I took this chance to practice and develop my bootstrap skills, which I solely used to get this project done
+   ### The end goal turned out to be a replica of the Original website
+   
+   <img alt="GIF" src="https://github.com/amagsid/Adyen.com-clone/blob/master/readme-assets/animation.gif" width="1200" height="600" />
