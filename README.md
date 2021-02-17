@@ -13,8 +13,8 @@
   **hey there
    <img align="right" alt="GIF" src="https://github.com/amagsid/Adyen.com-clone/blob/master/readme-assets/sales%20channels.gif" width="500" height="330" />
    <img align="center" alt="GIF" src="https://github.com/amagsid/Adyen.com-clone/blob/master/readme-assets/landing%20banner.gif" width="500" height="330" />
-     * The end goal turned out <br>
-     ** to be a replica of the <br>
-     *** original website <br>
+     **The end goal turned out** <br>
+     **to be a replica of the** <br>
+     **original website** <br>
      <img alt="GIF" src="https://github.com/amagsid/Adyen.com-clone/blob/master/readme-assets/animation.gif" width="1200" height="600" />
 
