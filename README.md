@@ -11,8 +11,8 @@
   
   
   **hey there
-   <img align="right" alt="GIF" src="https://github.com/amagsid/Adyen.com-clone/blob/master/readme-assets/sales%20channels.gif" width="500" height="310" />
-   <img align="center" alt="GIF" src="https://github.com/amagsid/Adyen.com-clone/blob/master/readme-assets/landing%20banner.gif" width="500" height="310" />
+   <img align="right" alt="GIF" src="https://github.com/amagsid/Adyen.com-clone/blob/master/readme-assets/sales%20channels.gif" width="500" height="330" />
+   <img align="center" alt="GIF" src="https://github.com/amagsid/Adyen.com-clone/blob/master/readme-assets/landing%20banner.gif" width="500" height="330" />
      **hey there left
      <img alt="GIF" src="https://github.com/amagsid/Adyen.com-clone/blob/master/readme-assets/animation.gif" width="1200" height="600" />
 
