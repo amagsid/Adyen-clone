@@ -15,6 +15,6 @@
 
    ⚫️I took this chance to practice and develop my bootstrap skills, which I solely used to get this project done <br>
    ⚫️The end goal turned out to be a replica of the Original website
-   <br>
+  
    
    <img alt="GIF" src="https://github.com/amagsid/Adyen.com-clone/blob/master/readme-assets/animation.gif" width="1200" height="600" />
