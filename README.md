@@ -14,8 +14,8 @@
    ⚫️I took this chance to practice and develop my bootstrap skills, which I solely used to get this project done <br>
    ⚫️The end goal turned out to be a replica of the Original website
 
-   <img align="right" alt="GIF" src="https://github.com/amagsid/Adyen.com-clone/blob/master/readme-assets/sales%20channels.gif" width="460" height="310" />
-   <img align="left" alt="GIF" src="https://github.com/amagsid/Adyen.com-clone/blob/master/readme-assets/landing%20banner.gif" width="460" height="310" />
+   <img align="right" alt="GIF" src="https://github.com/amagsid/Adyen.com-clone/blob/master/readme-assets/sales%20channels.gif" width="430" height="310" />
+   <img align="left" alt="GIF" src="https://github.com/amagsid/Adyen.com-clone/blob/master/readme-assets/landing%20banner.gif" width="430" height="310" />
 
   
    
