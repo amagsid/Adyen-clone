@@ -3,7 +3,7 @@
  <img alt="GIF" src="https://github.com/amagsid/Adyen.com-clone/blob/master/readme-assets/Tour.gif" width="950" height="530" />
 
  ### 💡 About the Project:
- My goal for this project was to create an accurate mockup of the Adyen clone.
+ My goal for this project was to create a clone for the Adyen website.
  
  
   ###  Motivation:
